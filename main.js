@@ -13,3 +13,5 @@ console.log(variableName);
 variableName = 10;
 
 console.log(variableName);
+
+// VS Code checkin
