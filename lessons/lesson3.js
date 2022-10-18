@@ -136,3 +136,5 @@ console.log(msg.concat('', beta));
  /* The trimEnd() method removes the empty spaces at the end. */
  console.log(msg.trimEnd());
  
+ let sample20 = 'One bike, one wheel.\n One bike, two wheels.';
+ console.log(sample20);
