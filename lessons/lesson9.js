@@ -160,4 +160,14 @@ function truckPushExample() {
     console.log(trucks);
  }
 
- truckShift();
+ //truckShift();
+
+ // Pass an array into a function parameter
+ function exampleArrayLoop(args) {
+    
+    for(value of args) {
+        console.log(value % 2 == 0);
+    }
+ }
+
+ exampleArrayLoop(values);
